@@ -1,0 +1,107 @@
+.block-2 {
+    background-color: #E23016;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+.text-block-2 {
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-bottom: 25px;
+    padding-left: 25px;
+}
+
+
+/* преподаватели */
+
+.list-cart {
+    background-color: #EBEBEB;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 20px;
+    padding: 30px;
+    text-align: center;
+}
+
+.recl-block {
+    background-color: #E23016;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    align-items: center;
+}
+
+.recl-text {
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-size: 34px;
+    line-height: 56px;
+    color: #FFFFFF;
+}
+
+.full-name {
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #000000;
+    padding-top: 10px;
+}
+
+.img-crit {
+    height: 127px;
+    width: auto;
+}
+
+.prepod {
+    background-color: #E23016;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.zatr {
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 56px;
+    color: #FFFFFF;
+}
+
+.zatr-2 {
+    font-family: 'Arimo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.nav-pre {
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+    padding-top: 15px;
+}
+
+.nav-text {
+    font-family: 'Arimo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+}

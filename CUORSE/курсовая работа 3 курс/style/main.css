@@ -1,0 +1,174 @@
+body {
+    background-color: #F3F2F0;
+}
+
+
+/* шапка */
+
+.head-text {
+    text-align: center;
+    background-color: #991300;
+    display: inline;
+    margin: 0;
+}
+
+.head-text a {
+    text-decoration: none;
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.head-text a:hover {
+    color: #d8d8d8;
+}
+
+
+/* блок 1 */
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+.bat {
+    background-color: #E23016;
+}
+
+
+/* модальное окно */
+
+.modal-text {
+    font-family: 'Arimo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.h2-text {
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+}
+
+
+/* блок 2 */
+
+.color-block-2 {
+    background-color: #E23016;
+    padding-top: 30px;
+    padding-bottom: 20px
+}
+
+.align-block-2 {
+    align-items: center;
+    text-align: center;
+}
+
+
+/* текст цифр во 2 блоке */
+
+.num-block-2 {
+    padding-top: 20px;
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-size: 32px;
+}
+
+.text-block-2 {
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+
+/* блок 3 */
+
+.block-3 {
+    align-items: center;
+    text-align: center;
+}
+
+.text-block-3-1 {
+    padding-top: 25px;
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+}
+
+.text-block-3-2 {
+    font-family: 'Arimo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+
+/* блок 4 */
+
+.blok-4-text {
+    padding-top: 25px;
+}
+
+.text-4 {
+    font-family: 'Arimo';
+    font-style: normal;
+    font-size: 32px;
+    color: #E23016;
+    border: 1px solid #E23016;
+    padding-left: 5px;
+}
+
+.text-4-2 {
+    font-family: 'Arimo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+
+/* блок 5 */
+
+.color-block-5 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #E23016;
+    margin-top: 50px;
+}
+
+.text-block-5 {
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-size: 36px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.btn-block-5 {
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    align-items: center;
+    text-align: center;
+}
+
+.footer {
+    background-color: #1F1F1F;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.social {
+    padding-top: 25px;
+}
+
+.ssal-footer:hover {
+    background-color: rgba(0, 0, 0, .3);
+}
