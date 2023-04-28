@@ -1,0 +1,33 @@
+.block-fon {
+    background-color: #E23016;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+.block-fon p {
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-bottom: 25px;
+    padding-left: 25px;
+}
+
+
+/* блок с текстом */
+.cont {
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+}
+
+.cont p {
+    font-family: 'Arimo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
